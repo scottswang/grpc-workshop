@@ -1,0 +1,8 @@
+#grpc server config
+spring:
+  application:
+    name: device-grpc-server
+
+grpc:
+  server:
+    port: 7052
